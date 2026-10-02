@@ -17,7 +17,7 @@ Krav til en bestemt ordliste gjelder bare når oppgaven har en dokumentert ordli
 
 | Regel | Instruksjon |
 |---|---|
-| 1.1 | I streng modus, følg oppgavens dokumenterte ordliste når en slik liste finnes. Ellers bruk vanlig bokmål og etablerte fagord. |
+| 1.1 | Følg oppgavens dokumenterte ordliste i streng modus når en slik liste finnes. Ellers bruk vanlig bokmål og etablerte fagord. |
 | 1.2 | Hvis ordlisten begrenser ordklassen til et ord, følg denne begrensningen uten å endre meningen. |
 | 1.3 | Bruk fagord med den betydningen de har i den aktuelle sammenhengen. |
 | 1.4 | Følg dokumenterte ordformer når oppgaven krever en bestemt ordliste. Ellers bruk vanlige bokmålsformer. |
@@ -40,7 +40,7 @@ Det samme gjelder «validere», «autentisere» og «autorisere».
 
 | Regel | Instruksjon |
 |---|---|
-| 2.1 | Unngå tunge sammensetninger. I streng modus, bruk maks tre ledd, med unntak for urørlige tekniske navn. |
+| 2.1 | Unngå tunge sammensetninger. I streng modus er grensen høyst tre ledd, med unntak for urørlige tekniske navn. |
 | 2.2 | Del lange sammensetninger med preposisjoner, eller innfør en forklart kortform. Bruk bindestrek der norsk rettskriving krever det. |
 
 **Tungt:** tilkoblingspooltidsavbruddskonfigurasjonsverdien
@@ -129,7 +129,7 @@ Regel 5.4 gjelder plassering av betingelser i instrukser, ikke alle forekomster 
 
 | Regel | Instruksjon |
 |---|---|
-| 8.1 | Foretrekk punktum fremfor semikolon når det gjør teksten lettere å lese. I streng modus, del ved semikolon når meningen bevares. |
+| 8.1 | Foretrekk punktum fremfor semikolon når det gjør teksten lettere å lese. I streng modus skal du dele ved semikolon når meningen bevares. |
 | 8.2 | Bruk bindestrek etter norsk rettskriving, som i «API-nøkkel» og «PostgreSQL-serveren». |
 | 8.3 | Bruk parenteser til korte presiseringer. Flytt viktig informasjon ut av parentesen. |
 | 8.4 | I punktlister teller innledningen før kolon som én setning ved lengdekontroll. |

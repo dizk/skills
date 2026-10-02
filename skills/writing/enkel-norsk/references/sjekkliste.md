@@ -46,7 +46,7 @@ Regelnumrene viser til [regelkatalogen](regelkatalog.md).
 ## Rapporter funn
 
 Skill mellom regelbrudd i valgt modus og valgfrie forbedringer.
-For hvert funn, oppgi teksten, begrunnelsen og et forslag som bevarer meningen.
+Oppgi teksten, begrunnelsen og et forslag som bevarer meningen for hvert funn.
 Hvis du oppgir regelnumre, les de aktuelle reglene i katalogen først.
 Ikke oppgi regelnumre fra hukommelsen.
 Hvis et forslag krever ukjente fakta, be om en presisering fremfor å fylle dem inn.

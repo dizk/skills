@@ -7,10 +7,10 @@ Bruk streng modus bare når brukeren uttrykkelig ber om kontrollert fagspråk el
 ## Issues, PR-er, kommentarer og commit-meldinger
 
 - Gi issues en tittel som beskriver feilen, behovet eller spørsmålet.
-- I feilrapporter, skill mellom observert oppførsel, forventet oppførsel og forslag til løsning.
+- Skill mellom observert oppførsel, forventet oppførsel og forslag til løsning i feilrapporter.
 - Bruk imperativ i PR-titler og commit-emnelinjer, som «Rett validering av eier-ID».
-- I PR-er og commit-meldinger, beskriv den faktiske endringen og grunnen i brødteksten.
-- I kommentarer, skill mellom spørsmål, anbefalinger og krav.
+- Beskriv den faktiske endringen og grunnen i brødteksten til PR-er og commit-meldinger.
+- Skill mellom spørsmål, anbefalinger og krav i kommentarer.
 - Oppgi hvilke kontroller du kjørte, og hvilke resultater du fikk.
 - Skill utført arbeid fra planlagt arbeid og forhold du ikke har kontrollert.
 - Bruk 25 ord per beskrivende setning som rettesnor i pragmatisk modus.
@@ -95,6 +95,6 @@ Ved en uttrykkelig oppgave om å omskrive selve grensesnitteksten kan du endre d
 
 ## Andre teksttyper
 
-For markedsføring, blogger og merkevaretekst, tilpass tonen til oppgaven.
+Tilpass tonen til oppgaven i markedsføring, blogger og merkevaretekst.
 Ikke innfør streng modus uten et uttrykkelig ønske.
 Bevar fakta og meningen også når teksten har et annet formål enn teknisk dokumentasjon.

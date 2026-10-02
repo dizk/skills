@@ -1,6 +1,5 @@
 ---
 name: enkel-norsk
-version: 1.1.0
 description: |
   Skriv, omskriv eller kontroller teknisk tekst på norsk bokmål.
   Bruk ferdigheten til norske issue- og PR-titler, beskrivelser, kommentarer,
@@ -12,6 +11,8 @@ description: |
   om kontrollert fagspråk eller faste språkkrav.
 license: MIT
 compatibility: claude-code cursor codex gemini-cli opencode
+metadata:
+  version: "1.1.0"
 ---
 
 # Enkel norsk
@@ -41,7 +42,7 @@ Ord som «bør», «kunne» og «muligens» er tillatt når de uttrykker meninge
 Perfektum og andre sammensatte verbformer er også tillatt.
 
 For vanlige skriveoppgaver er denne hovedveiledningen tilstrekkelig.
-Ved streng modus, les [regelkatalogen](references/regelkatalog.md).
+Les [regelkatalogen](references/regelkatalog.md) hvis du bruker streng modus.
 Hvis oppgaven har en dokumentert ordliste, bruk den. Ikke finn på godkjente eller forbudte ord.
 
 ## Skriv teksten
@@ -51,10 +52,10 @@ Hvis oppgaven har en dokumentert ordliste, bruk den. Ikke finn på godkjente ell
 3. Bruk aktive verb når det gjør ansvar og handling tydeligere.
 4. Del lange setninger når delingen gjør teksten lettere å forstå.
 5. Behold nødvendige ord som «at», «som» og «å».
-6. I instrukser, sett en nødvendig betingelse før handlingen.
+6. Sett en nødvendig betingelse før handlingen i instrukser.
 7. Fjern fyllord som ikke tilfører mening.
 
-Beskrivelser trenger ikke begynne med betingelsen: «Tjenesten stopper når forbindelsen brytes» er en gyldig forklaring.
+Beskrivelser trenger ikke å begynne med betingelsen: «Tjenesten stopper når forbindelsen brytes» er en gyldig forklaring.
 
 ## Bruk presise begreper
 
@@ -79,7 +80,7 @@ Før du leverer, kontroller at:
 - betingelser i instrukser står før handlingen
 - teknisk innhold og sitater er urørt
 
-Ved tekstkontroll, les [sjekklisten](references/sjekkliste.md).
+Les [sjekklisten](references/sjekkliste.md) før du kontrollerer en tekst.
 Vurder søketreff i sammenheng. Et treff er ikke automatisk et regelbrudd.
 Skill mellom regelbrudd og valgfrie forbedringer.
 Hvis du oppgir regelnumre, les de aktuelle reglene i [regelkatalogen](references/regelkatalog.md) først.
